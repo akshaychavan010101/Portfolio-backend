@@ -8,4 +8,4 @@ This is a backend for the Portfolio
 Receiving the mails from the portfolio
 
 # Tech stack used : 
-<h2> HTML , CSS , JavaScript, Node.js, Express.js</h2>
+<h2> HTML , CSS , JavaScript, Node.js, Express.js, Sendgrid</h2>
